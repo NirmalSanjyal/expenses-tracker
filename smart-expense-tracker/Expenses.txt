@@ -1,0 +1,5 @@
+Food - Rs.500
+food, Travel, Bill - Rs.500, 300, 150
+Food - Rs.500
+Travel - Rs.300
+Bill - Rs.150
